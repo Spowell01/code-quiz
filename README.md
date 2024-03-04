@@ -6,7 +6,7 @@ This is a quiz to test your coding knowledge.
 
 ## Installation
 here is a link to the deplyed site!
-https://spowell01.github.io/password-generator/ 
+https://spowell01.github.io/code-quiz/
 
 ## Usage
 this is a screenshot of the page.
